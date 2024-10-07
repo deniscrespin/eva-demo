@@ -1,0 +1,140 @@
+{
+"id": "1",
+"name": "Inscription 1ere année secondaire",
+"type": "tile",
+"children": [
+{
+"id": "2",
+"name": "Informations générales",
+"type": "tile",
+"children": [
+{
+"id": "3",
+"name": "Historique du décret Inscription",
+"type": "tile",
+"children": [
+{
+"id": "26",
+"title": "Quand a-t-on créé le décret Inscription?",
+"body": null,
+"type": "faq"
+},
+{
+"id": "27",
+"title": "Quels ont été les objectifs initiaux du décret Inscription?",
+"body": null,
+"type": "faq"
+}
+]
+},
+{
+"id": "24",
+"title": "Qu'est-ce que le décret Inscription?",
+"body": null,
+"type": "faq"
+},
+{
+"id": "25",
+"title": "Quel est l'objectif du site internet?",
+"body": null,
+"type": "faq"
+}
+]
+},
+{
+"id": "4",
+"name": "Procédure d'inscription",
+"type": "tile",
+"children": [
+{
+"id": "28",
+"title": "Comment s'inscrire en 1re année secondaire?",
+"body": null,
+"type": "faq"
+},
+{
+"id": "5",
+"name": "Documents nécessaires",
+"type": "tile",
+"children": [
+{
+"id": "30",
+"title": "Quels documents sont nécessaires pour s'inscrire si mon enfant a des besoins spécifiques?",
+"body": null,
+"type": "faq"
+},
+{
+"id": "31",
+"title": "Quels sont les documents acceptés pour prouver la résidence?",
+"body": null,
+"type": "faq"
+}
+]
+},
+{
+"id": "6",
+"name": "Problèmes techniques",
+"type": "tile",
+"children": [
+{
+"id": "32",
+"title": "Comment puis-je obtenir de l'aide si je rencontre des difficultés techniques avec le site internet?",
+"body": null,
+"type": "faq"
+},
+{
+"id": "33",
+"title": "Quels sont les navigateurs web compatibles avec le site internet?",
+"body": null,
+"type": "faq"
+}
+]
+},
+{
+"id": "29",
+"title": "Quels sont les délais pour s'inscrire?",
+"body": null,
+"type": "faq"
+}
+]
+},
+{
+"id": "7",
+"name": "Résultats et classement",
+"type": "tile",
+"children": [
+{
+"id": "8",
+"name": "Appel et réclamation",
+"type": "tile",
+"children": [
+{
+"id": "36",
+"title": "Comment puis-je faire appel d'une décision de la CoGI?",
+"body": null,
+"type": "faq"
+},
+{
+"id": "37",
+"title": "Quels sont les délais pour déposer une réclamation?",
+"body": null,
+"type": "faq"
+}
+]
+},
+{
+"id": "34",
+"title": "Comment consulter son classement?",
+"body": null,
+"type": "faq"
+},
+{
+"id": "35",
+"title": "Qu'est-ce que la Commission de Gouvernance des Inscriptions (CoGI)?",
+"body": null,
+"type": "faq"
+}
+]
+}
+]
+}
